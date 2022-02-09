@@ -1,20 +1,20 @@
 {
-    "name": "ace-builds",
+    "name": "ace-builds-inelegantly-customized",
     "main": "./src-noconflict/ace.js",
     "typings": "ace.d.ts",
     "version": "1.4.14",
-    "description": "Ace (Ajax.org Cloud9 Editor)",
+    "description": "Ace (Ajax.org Cloud9 Editor) (Inelegantly customized and minimized for personally special use)",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ajaxorg/ace-builds.git"
+        "url": "https://github.com/boring-plans/ace-builds.git"
     },
     "author": "",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/ajaxorg/ace-builds/issues"
+        "url": "https://github.com/boring-plans/ace-builds/issues"
     },
-    "homepage": "https://github.com/ajaxorg/ace-builds"
+    "homepage": "https://github.com/boring-plans/ace-builds"
 }
